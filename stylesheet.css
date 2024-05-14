@@ -1,0 +1,254 @@
+a{
+    text-decoration: none;
+}
+body {
+    background-color: #F1E1D9;
+    margin: 30px;
+}
+h1 {
+    color: black;
+    font-family: Monotype corsiva;
+    font-size: 75px;
+}
+h3 {
+    font-family: Bahnschrift SemiCondensed;
+    font-weight: bold;
+
+}
+.header1{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #6D152B;
+    color: #F1E1D9;
+    text-align: center;
+    font-family: Bahnschrift;
+    font-size: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.footer1{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #6D152B;
+    color: #F1E1D9;
+    text-align: center;
+    font-family: Bahnschrift;
+    font-size: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.BeginnerPacket {
+    font-family: Bahnschrift;
+    text-align: center;
+    width: fit-content;
+    border-style: none;
+    background-color:#61714D ;
+    color: #F1E1D9;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    transition-duration: 0.5s;
+    margin-top: 5px;
+}
+.BeginnerPacket:hover {
+    background-color: #434e35;
+}
+.ArtistTool {
+    font-family: Bahnschrift;
+    text-align: center;
+    width: fit-content;
+    border-style: none;
+    background-color:#7D5D34 ;
+    color: #F1E1D9;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    transition-duration: 0.5s;
+    margin-top: 5px;
+}
+.ArtistTool:hover {
+    background-color: #5f431f;
+}
+.Ref {
+    font-family: Bahnschrift;
+    text-align: center;
+    width: fit-content;
+    border-style: none;
+    background-color:#6D152B ;
+    color: #F1E1D9;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    transition-duration: 0.5s;
+    margin-top: 5px;
+}
+.Ref:hover{
+    background-color: #470d1b;
+}
+.Rec {
+    font-family: Bahnschrift;
+    text-align: center;
+    width: fit-content;
+    border-style: none;
+    background-color:#5B665C ;
+    color: #F1E1D9;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    transition-duration: 0.5s;
+    margin-top: 5px;
+}
+.Rec:hover {
+    background-color: #3a423b;
+}
+.star {
+  appearance: none;
+  background-color: inherit;
+  margin: 0;
+  padding: 0;
+  border-style: none;
+  
+}
+
+.starpic{
+    height: 30px;
+    width: 30px;
+border-radius: 50%;
+}
+.body1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.headbox{
+    display: inline-block;
+    margin-top: 50px;
+    
+}
+.headline{
+    width: fit-content;
+   
+}
+.colors{
+    height: 60px;
+    margin-left: 30px;
+
+    
+}
+.colorbox {
+    width: fit-content;
+}
+.li{
+    font-family: Bahnschrift;
+    font-size: larger;
+
+}
+.pli{
+    font-size: large;
+    font-family: Bahnschrift;
+    text-align: justify;
+}
+.h5{
+    text-shadow: black;
+    text-shadow: 5px;
+}
+h3{
+    background-color: #88b19e;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: fit-content;
+    color:#F1E1D9;
+    height: fit-content;
+    line-height: 50px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-weight: normal;
+    background-image: linear-gradient(to right, rgb(31, 53, 56) , rgb(90, 22, 28));
+}
+h4{
+    background-color: #88b19e;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: fit-content;
+    color:rgb(32, 5, 8);
+    height: fit-content;
+    
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-weight: normal;
+    font-size: 20px;
+    background-image: linear-gradient(to right, rgb(125, 198, 209) , rgb(233, 124, 133));
+
+}
+.logo {
+    height: 60px;
+    width: 60px;
+    top: 0;
+
+}
+.square {
+    margin-top: 20px;
+    display: block;
+    height: fit-content;
+    
+}
+.square1{
+    margin-top: 20px;
+    display: block;
+    height: fit-content;
+    
+}
+.orgppl{
+    text-align: justify;
+    font-family: Bahnschrift;
+    font-size: large;
+}
+.orgppl1{
+    text-align: justify;
+    font-family: Bahnschrift;
+    font-size: medium;
+}
+.orgpic{
+    border-radius: 50%;
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-right: 15px;
+    object-fit: cover;
+}
+.box{
+    float: none;
+    height: 50px; 
+    display: block;
+}
+.box1{
+    float: none;
+    height: 25px; 
+    display: block;
+}
+.socpic{
+    border-radius: 50%;
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
